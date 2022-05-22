@@ -19,20 +19,16 @@ I currently participate in security and defence data recovery at Sopra Steria an
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:11px;" />
+<img align="left" alt="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:11px;" />
 
 <br/>
 <br/>
 
 ### Connect with me
 
-[![img_contact](./img/github-light.svg)](https://github.com/Brice150#gh-light-mode-only)
-[![img_contact](./img/github-dark.svg)](https://github.com/Brice150#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/brice-lecomte/#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/brice-lecomte/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/facebook-light.svg)](https://www.facebook.com/brice.lecomte0#gh-light-mode-only)
-[![img_contact](./img/facebook-dark.svg)](https://www.facebook.com/brice.lecomte0#gh-dark-mode-only)
+<i class="devicon-linkedin-plain"></i>
+<i class="devicon-github-original"></i>
+<i class="devicon-facebook-plain"></i>
 
 ### GitHub Stats
 
