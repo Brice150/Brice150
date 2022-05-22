@@ -17,6 +17,9 @@ I currently participate in security and defence data recovery at Sopra Steria an
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:11px;" />
 
+<br/>
+<br/>
+
 ### Connect with me
 
 [![img_contact](./img/github-light.svg)](https://github.com/Brice150#gh-light-mode-only)
