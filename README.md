@@ -26,7 +26,7 @@ I currently participate in security and defence data recovery at Sopra Steria an
 
 ### Connect with me
 
-<i class="devicon-linkedin-plain"></i>
+<i class="devicon-linkedin-plain">ici</i>
 <i class="devicon-github-original"></i>
 <i class="devicon-facebook-plain"></i>
 
