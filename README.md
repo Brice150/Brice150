@@ -28,9 +28,9 @@ I currently participate in security and defence data recovery at Sopra Steria an
 
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/brice-lecomte/#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/brice-lecomte/#gh-dark-mode-only)
-
-<br/>
-<br/>
+&nbsp;&nbsp;
+[![img_contact](./img/github-light.svg)](https://www.linkedin.com/in/brice-lecomte/#gh-light-mode-only)
+[![img_contact](./img/github-dark.svg)](https://www.linkedin.com/in/brice-lecomte/#gh-dark-mode-only)
 
 ### GitHub Stats
 
