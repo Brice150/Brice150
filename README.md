@@ -26,8 +26,8 @@ I currently participate in security and defence data recovery at Sopra Steria an
 
 ### Connect with me
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/brice-lecomte#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/brice-lecomte#gh-dark-mode-only)
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/brice-lecomte/#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/brice-lecomte/#gh-dark-mode-only)
 
 <br/>
 <br/>
@@ -35,5 +35,3 @@ I currently participate in security and defence data recovery at Sopra Steria an
 ### GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brice150&hide=prs,stars,issues&count_private=true&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
-
-[website]: https://codeSTACKr.com
