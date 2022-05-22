@@ -2,6 +2,10 @@
 #### FullStack developer with a french aerospace engineering degree
 I currently participate in security and defence data recovery at Sopra Steria and I also create web applications on my freetime.
 
+- 🔭 I’m currently working on a 3D printing web application 
+- ⚡ Fun fact : I play Ukulele
+- 📫 How to reach me: Linkedin or Email
+
 ### Skills and Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
@@ -15,10 +19,6 @@ I currently participate in security and defence data recovery at Sopra Steria an
 
 <br />
 <br />
-
-- 🔭 I’m currently working on a 3D printing web application 
-- ⚡ Fun fact : I play Ukulele
-- 📫 How to reach me: Linkedin or Email
 
 ### Connect with me
 
