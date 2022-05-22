@@ -2,9 +2,12 @@
 #### FullStack developer with a french aerospace engineering degree
 I currently participate in security and defence data recovery at Sopra Steria and I also create web applications on my freetime.
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/KJmbSTSyIzetubNgJ5" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/dev-developers-yooda-KJmbSTSyIzetubNgJ5">via GIPHY</a></p>
+<div align="center">
+<img src="https://media3.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif?cid=ecf05e47ta2r0u8vd48ua1m5q8bby8x38ldnbfisywtch8rt&rid=giphy.gif&ct=s" width="200" height="200"></img>
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=Brice150&style=flat-square&color=blue" alt=""/>
+
 
 - 🔭 I’m currently working on a 3D printing web application 
 - ⚡ Fun fact : I play Ukulele
