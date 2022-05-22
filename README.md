@@ -31,6 +31,8 @@ I currently participate in security and defence data recovery at Sopra Steria an
 &nbsp;&nbsp;
 [![img_contact](./img/github-light.svg)](https://github.com/Brice150#gh-light-mode-only)
 [![img_contact](./img/github-dark.svg)](https://github.com/Brice150#gh-dark-mode-only)
+&nbsp;&nbsp;
+<a href="mailto:brice.lecomte0@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ### GitHub Stats
 
