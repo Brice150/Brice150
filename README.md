@@ -42,4 +42,4 @@ I currently participate in security and defence data recovery at Sopra Steria an
 
 ### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brice150&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
