@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Brice Lecomte
-#### FullStack developer with a french aerospace engineering degree
+#### Full-Stack developer with a french aerospace engineering degree
 I currently participate in security and defence data recovery at Sopra Steria and I also create web applications on my freetime.
 
 <div align="center">
@@ -9,7 +9,7 @@ I currently participate in security and defence data recovery at Sopra Steria an
 <img src="https://komarev.com/ghpvc/?username=Brice150&style=flat-square&color=blue" alt=""/>
 
 
-- 🔭 I’m currently working on a 3D printing web application 
+- 🔭 After a 3D printing web application, I’m currently working on a dating app 
 - ⚡ Fun fact : I play Ukulele
 - 📫 How to reach me: Linkedin or Email
 
