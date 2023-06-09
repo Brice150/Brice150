@@ -9,7 +9,7 @@ I currently participate in security and defence data recovery at Sopra Steria an
 <img src="https://komarev.com/ghpvc/?username=Brice150&style=flat-square&color=blue" alt=""/>
 
 
-- 🔭 After a 3D printing web application, I’m currently working on a dating app 
+- 🔭 Currently working at Sopra Steria while making applications on my freetime
 - ⚡ Fun fact : I play Ukulele
 - 📫 How to reach me: Linkedin or Email
 
