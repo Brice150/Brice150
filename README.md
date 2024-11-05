@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Brice Lecomte
 #### Full-Stack developer with a french aerospace engineering degree
-I currently participate in the creation of a web application aimed at optimizing the maintenance of military vehicles at Sopra Steria and I also create web applications on my freetime.
+I currently participate in the creation of web applications at Capgemini and I also create web applications on my freetime.
 
 <div align="center">
 <img src="https://media3.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif?cid=ecf05e47ta2r0u8vd48ua1m5q8bby8x38ldnbfisywtch8rt&rid=giphy.gif&ct=s" width="200" height="200"></img>
@@ -9,7 +9,7 @@ I currently participate in the creation of a web application aimed at optimizing
 <img src="https://komarev.com/ghpvc/?username=Brice150&style=flat-square&color=blue" alt=""/>
 
 
-- 🔭 Currently working at Sopra Steria while making applications on my freetime
+- 🔭 Currently working at Capgemini while making applications on my freetime
 - ⚡ Fun fact : I play Ukulele
 - 📫 How to reach me: Linkedin or Email
 
