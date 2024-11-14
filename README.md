@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Brice Lecomte
-#### Full-Stack developer with a french aerospace engineering degree
+#### Full-Stack Developer with a french aerospace engineering degree, I currently contribute to the development of multiple web applications focused on boat and sailor management at Capgemini
 
 <div align="center">
 <img src="https://media3.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif?cid=ecf05e47ta2r0u8vd48ua1m5q8bby8x38ldnbfisywtch8rt&rid=giphy.gif&ct=s" width="200" height="200"></img>
