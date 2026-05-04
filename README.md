@@ -1,6 +1,6 @@
 ### Salut 👋, moi c’est Brice Lecomte
 
-#### Développeur Full-Stack, alliant la rigueur de l’ingénierie à la créativité du développement web. Diplômé d’une école française d’ingénierie aérospatiale, je me suis reconverti dans la tech afin de concevoir des applications à fort impact. Actuellement chez Capgemini, je fais partie d’une équipe développant des applications web de gestion et de taxation des navires de plaisance, en utilisant Angular et Spring.
+#### Après une reconversion réussie de l’ingénierie aérospatiale vers le développement logiciel, je suis aujourd’hui développeur Angular / Java. Avec 5 années d’expérience en développement Full‑Stack, je m’appuie sur une base technique robuste et une approche méthodique pour concevoir des applications fiables et évolutives.
 
 <div align="center">
 <img src="https://media3.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif?cid=ecf05e47ta2r0u8vd48ua1m5q8bby8x38ldnbfisywtch8rt&rid=giphy.gif&ct=s" width="200" height="200"></img>
