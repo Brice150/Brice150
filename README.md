@@ -2,6 +2,8 @@
 
 #### Après une reconversion réussie de l’ingénierie aérospatiale vers le développement logiciel, je suis aujourd’hui développeur Angular / Java. Avec 5 années d’expérience en développement Full‑Stack, je m’appuie sur une base technique robuste et une approche méthodique pour concevoir des applications fiables et évolutives.
 
+#### Au-delà de mon activité professionnelle, je développe sur mon temps libre des applications web utiles au quotidien, illustrant ma passion pour la résolution de problèmes et l’innovation, notamment autour de thématiques telles que la cuisine, le fitness, la finance personnelle, la gestion de tâches et l’organisation du quotidien.
+
 <div align="center">
 <img src="https://media3.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif?cid=ecf05e47ta2r0u8vd48ua1m5q8bby8x38ldnbfisywtch8rt&rid=giphy.gif&ct=s" width="200" height="200"></img>
 </div>
